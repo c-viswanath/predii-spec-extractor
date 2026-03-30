@@ -10,8 +10,7 @@ venv/
 .venv/
 env/
 
-# Data & outputs (large files)
-data/
+# Outputs (generated files)
 outputs/
 
 # Environment
